@@ -51,6 +51,7 @@ a:visited {
   padding-right: 10px;
   min-width: 100px;
   max-width: 47%;
+  height: auto;
   background: rgb(237,238,192);
   background: linear-gradient(90deg, rgba(237,238,192,1) 0%, rgba(166,167,131,1) 100%);
 }
